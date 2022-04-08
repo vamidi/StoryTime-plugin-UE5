@@ -1,0 +1,7 @@
+﻿{
+	"databaseURL": "YOUR_WEB_SERVER_URL",
+	"projectID": "YOUR_PROJECT_ID",
+	"email": "YOUR_EMAIL_LOGIN",
+	"password": "YOUR_PASSWORD_LOGIN",
+	"dataPath": "/ABSOLUTE/PATH/TO/YOUR/STORYTIME/PLUGIN/FOLDER/Content/Data"
+}

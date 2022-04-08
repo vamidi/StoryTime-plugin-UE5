@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "StoryTime",
+	"Description": "StoryTime is a structured data management tool that for creating role-playing games. This tool will work with Unity3D & Unreal engine 4/5",
+	"Category": "Other",
+	"CreatedBy": "Valencio Hoffman",
+	"CreatedByURL": "https://vamidicreations.nl/",
+	"DocsURL": "https://docs.vamidicreations.nl/",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "StoryTime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
